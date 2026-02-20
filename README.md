@@ -1,2 +1,2 @@
 # matematicas
-proyecto para la feria de la ciencia 2025
+proyecto para la feria de la ciencia 2026
